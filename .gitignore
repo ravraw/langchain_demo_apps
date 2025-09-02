@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+*.env
+.env
+
+# Conda environments
+*.conda
+*.condarc
+.conda/
+envs/
+# If you are using the environment.yml, you don't need to track env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# LangChain & LLM caches
+*.cache/
