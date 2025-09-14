@@ -46,3 +46,6 @@ build/
 
 # LangChain & LLM caches
 *.cache/
+
+# croma
+my_chroma_db
